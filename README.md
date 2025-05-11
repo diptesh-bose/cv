@@ -1,4 +1,5 @@
 **Diptesh Bose**
+
 Senior Manager / Principal Product Architect - Modern Workplace & Collaboration Engineering
 
 Flat # 303 Srujana Oaks, Opposite Sobha Royal Pavilion, Sarjapur Road, Bengaluru 560035, India
