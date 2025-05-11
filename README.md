@@ -1,5 +1,3 @@
-Okay, here is the complete CV with the "Professional Experience" section reorganized into a strict reverse chronological order, listing each role independently.
-
 **Diptesh Bose**
 Senior Manager / Principal Product Architect - Modern Workplace & Collaboration Engineering
 
