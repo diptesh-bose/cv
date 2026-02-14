@@ -2,9 +2,6 @@
 
 Senior Manager / Principal Product Architect - Modern Workplace & Collaboration Engineering
 
-Flat # 303 Srujana Oaks, Opposite Sobha Royal Pavilion, Sarjapur Road, Bengaluru 560035, India
-(+91) 7259911922 | dipteshbose@hotmail.com | https://www.linkedin.com/in/diptesh-bose
-
 **Summary**
 
 Visionary IT Executive with 21+ years of global experience leading End User Computing (EUC) engineering, Modern Workplace transformation, Collaboration Platform Engineering, and Workplace AI solutions. Proven expertise in driving Service Request Automation, Microsoft 365 License Management, and modern workplace engineering initiatives through Power Platform, ServiceNow, and Microsoft 365 solutions. Adept at building high-performing, globally distributed engineering teams in Agile environments, embedding security and compliance across enterprise collaboration platforms, and pioneering innovation with GenAI.
