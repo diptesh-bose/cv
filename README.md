@@ -1,6 +1,5 @@
-Okay, here is the complete CV with the "Professional Experience" section reorganized into a strict reverse chronological order, listing each role independently.
-
 **Diptesh Bose**
+
 Senior Manager / Product Lead - Productivity & Collaboration (IT)
 
 **Summary**
@@ -23,7 +22,7 @@ Visionary IT Executive with 21+ years of global experience leading End User Comp
 **Professional Experience**
 
 **DXC Technology, Bengaluru, India**
-**Senior Manager, Modern Workplace Automation & GenAI Enterprise Architecture** (November 2023 – Present)
+**Senior Manager, Modern Workplace Automation & GenAI Enterprise Architecture** (November 2023 – May 2025)
 *   Developed an AnalystQ Copilot (AI Agent) using RAG pattern to support and augment interaction of Modern Workplace management with industry analysts such as Gartner, ISG etc.
 *   Developed strategy for Modern Workplace Generative Artificial Intelligence (AI).
 *   Served as Architecture Lead for Global DXC Modern Workplace Automation & AI Offering, providing recommendations and guidance on GenAI offerings.
