@@ -1,10 +1,7 @@
 Okay, here is the complete CV with the "Professional Experience" section reorganized into a strict reverse chronological order, listing each role independently.
 
 **Diptesh Bose**
-Senior Manager / Principal Product Architect - Modern Workplace & Collaboration Engineering
-
-Flat # 303 Srujana Oaks, Opposite Sobha Royal Pavilion, Sarjapur Road, Bengaluru 560035, India
-(+91) 7259911922 | dipteshbose@hotmail.com | https://www.linkedin.com/in/diptesh-bose
+Senior Manager / Product Lead - Productivity & Collaboration (IT)
 
 **Summary**
 
