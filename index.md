@@ -7,8 +7,6 @@ title: Diptesh Bose - CV
 
 **Senior Manager / Principal Product Architect - Modern Workplace & Collaboration Engineering**
 
-Flat # 303 Srujana Oaks, Opposite Sobha Royal Pavilion, Sarjapur Road, Bengaluru 560035, India  
-(+91) 7259911922 | [dipteshbose@hotmail.com](mailto:dipteshbose@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/diptesh-bose)
 
 ---
 
